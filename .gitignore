@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Env
+.env
+
+# Runtime data (server is source of truth)
+voters.json
+votes.json
+leaderboard.json
+last_reset.json
+tickets.json
+servers.json
